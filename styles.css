@@ -1,0 +1,38 @@
+/* Basic CSS styles for the page */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #5a0e08;
+    color: white;
+    padding: 100px;
+    text-align: center;
+}
+
+button {
+    margin: 20px;
+    padding: 20px 20px;
+    cursor: menu;
+}
+
+#contentSection {
+    padding: 20px;
+    background-color: #fff;
+    margin: 20px;
+    border-radius: 8px;
+}
+
+footer {
+    text-align: right;
+    padding: 20px;
+    background-color: #333;
+    color: white;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
